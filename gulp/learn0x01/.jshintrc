@@ -1,0 +1,13 @@
+{
+  "boss": false,
+  "asi": false,
+  "unused": true,
+  "indent": 2,
+  "immed": true,
+  "freeze": true,
+  "eqeqeq": true,
+  "camelcase": true,
+  "curly": true,
+  "bitwise":true,
+  "multistr": true
+}

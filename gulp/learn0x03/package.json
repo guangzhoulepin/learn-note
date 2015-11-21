@@ -1,0 +1,22 @@
+{
+  "name": "learn0x03",
+  "version": "1.0.0",
+  "description": "how to use gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fondadam/learn.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Fonda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fondadam/learn/issues"
+  },
+  "homepage": "https://github.com/fondadam/learn#readme"
+}
